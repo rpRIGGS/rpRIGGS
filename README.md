@@ -1,12 +1,14 @@
-👋 I'm @rpRIGGS, the driving force behind **PowerMoves Gaming** and **PowerMoves Development**.
+👋 I'm @rpRIGGS, owner of **PowerMoves Gaming** and the driving force behind **PowerMoves Development**.
 
-🎮 As the owner, I lead the creation and management of diverse roleplay experiences. Our flagship project, **PowerMoves RP on FiveM**, is currently in active server development. We're also expanding, with **PowerMoves RP on RedM** and **PowerMoves DayZ** both in the planning phase.
+🎮 My passion lies in crafting immersive roleplay experiences on FiveM, with **PowerMoves RP** as our flagship project. We're also expanding into new territories with PowerMoves RP on RedM and PowerMoves DayZ in the planning phase.
 
-💻 My hands-on role extends to **PowerMoves Development**, our dedicated FiveM script division. With over **5 years of personal roleplay experience** across major servers, I bring a unique "roleplayer's perspective" to every script. This insight allows me to tackle a long list of "I wish the script could do this..." problems, developing solutions that foster broader, more immersive roleplay scenarios. My specialization is in crafting robust **Lua** solutions, primarily leveraging the **qb-core framework**, while also tackling broader FiveM development challenges.
+💻 As a lead developer, my core expertise is in **Lua scripting**. While my primary preference is the **qb-core framework**, I actively develop with robust support for **qbx_core** and **ESX**, ensuring broad compatibility for our scripts.
 
-💡 I'm constantly innovating and optimizing across all our ventures, aiming to deliver unique, high-performance, and truly immersive gameplay.
+💡 With over **5 years of personal roleplay experience** across major servers, I bring a unique "roleplayer's perspective" to development. This allows me to tackle the common "I wish the script could do this..." challenges, creating innovative solutions that foster deeper, more immersive roleplay scenarios.
 
-💬 Interested in server architecture, game development, or collaboration on next-level roleplay mechanics? Let's connect on Discord: #rpRIGGS
+🚀 I'm constantly innovating, optimizing, and pushing the boundaries to deliver high-performance and truly engaging gameplay across all our ventures.
+
+💬 Let's connect if you're interested in game development, server architecture, or collaborating on next-level roleplay mechanics. Find me on Discord: `#rpRIGGS`
 
 <!---
 rpRIGGS/rpRIGGS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
