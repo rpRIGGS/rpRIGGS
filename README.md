@@ -1,12 +1,12 @@
-👋 Greetings! I'm @rpRIGGS, a dedicated developer diving deep into the intricacies of **FiveM** and **RedM**.
+👋 I'm @rpRIGGS, the driving force behind **PowerMoves Gaming** and **PowerMoves Development**.
 
-🌟 My current passion lies in crafting exceptional server experiences, with a primary focus on mastering **qb-core** and understanding the nuances of **vorp**.
+🎮 As the owner, I lead the creation and management of diverse roleplay experiences. Our flagship project, **PowerMoves RP on FiveM**, is currently in active server development. We're also expanding, with **PowerMoves RP on RedM** and **PowerMoves DayZ** both in the planning phase.
 
-💻 I'm a proficient **Lua** scripter, always eager to tackle complex challenges and optimize performance.
+💻 My hands-on role extends to **PowerMoves Development**, our dedicated FiveM script division. With over **5 years of personal roleplay experience** across major servers, I bring a unique "roleplayer's perspective" to every script. This insight allows me to tackle a long list of "I wish the script could do this..." problems, developing solutions that foster broader, more immersive roleplay scenarios. My specialization is in crafting robust **Lua** solutions, primarily leveraging the **qb-core framework**, while also tackling broader FiveM development challenges.
 
-✨ I'm constantly learning and expanding my skillset, aiming to contribute innovative and impactful solutions to the community.
+💡 I'm constantly innovating and optimizing across all our ventures, aiming to deliver unique, high-performance, and truly immersive gameplay.
 
-🗣️ Feel free to connect with me on Discord for any discussions or collaborations: `#rpRIGGS`
+💬 Interested in server architecture, game development, or collaboration on next-level roleplay mechanics? Let's connect on Discord: #rpRIGGS
 
 <!---
 rpRIGGS/rpRIGGS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
